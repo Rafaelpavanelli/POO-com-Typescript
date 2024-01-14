@@ -1,0 +1,2 @@
+<h1 align="center">Treinando POO com Typescript</h1>
+<p>Estudando POO com typescript para melhorar minhas habilidades com backend e typescript.</br>Acredito que um bom programador deve ser capaz de dominar diversas áreas, inclusive o backend</p>
