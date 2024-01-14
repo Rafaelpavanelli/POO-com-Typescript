@@ -1,2 +1,3 @@
 <h1 align="center">Treinando POO com Typescript</h1>
 <p>Estudando POO com typescript para melhorar minhas habilidades com backend e typescript.</br>Acredito que um bom programador deve ser capaz de dominar diversas áreas, inclusive o backend</p>
+<p>As aulas qual partiu esse estudo veio do curso <link src="https://www.youtube.com/watch?v=G5TOitIft8o&list=PLDqnSpzNKDvnh-0RCYbIL5WzGCCFV1Ghm">"Orientação a objetos com Typescript"</link> do Angelo Luz</p>
